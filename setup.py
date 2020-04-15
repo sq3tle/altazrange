@@ -9,7 +9,7 @@ setup(
   author='SQ3TLE',
   author_email='sq3tle@gmail.com',
   url='https://github.com/sq3tle/altazrange',
-  download_url='https://github.com/sq3tle/altazrange/archive/0.5.tar.gz',
+  download_url='https://github.com/sq3tle/altazrange/archive/0.55.tar.gz',
   keywords=['altitude', 'elevation', 'azimuth', 'distance', 'gps', 'satellite'],
   classifiers=[
     'Development Status :: 4 - Beta',
