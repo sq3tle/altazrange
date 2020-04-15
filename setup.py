@@ -2,13 +2,13 @@ from distutils.core import setup
 setup(
   name='AltAzRange',
   packages=['AltAzRange'],
-  version='0.5',
+  version='0.53',
   license='MIT',
   description='Simple tool to get altitude (elevation), azimuth and range between observer and object / pair of '
               'cordinates',
   author='SQ3TLE',
   author_email='sq3tle@gmail.com',
-  url='https://github.com/user/sq3tle',
+  url='https://github.com/sq3tle/altazrange',
   download_url='https://github.com/sq3tle/altazrange/archive/0.5.tar.gz',
   keywords=['altitude', 'elevation', 'azimuth', 'distance', 'gps', 'satellite'],
   classifiers=[
