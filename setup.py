@@ -2,7 +2,7 @@ from distutils.core import setup
 setup(
   name='AltAzRange',
   packages=['AltAzRange'],
-  version='0.53',
+  version='0.55',
   license='MIT',
   description='Simple tool to get altitude (elevation), azimuth and range between observer and object / pair of '
               'cordinates',
