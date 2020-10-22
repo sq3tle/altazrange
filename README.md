@@ -1,4 +1,6 @@
 # AltAzRange - Calculate altitude, azimuth, distance from gps cords
+https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsq3tle%2Faltazrange&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false
+
 Simple tool to calculate altitude (elevation), azimuth and range between observer and object or pair of coordinates.
  
 **Useful for eg. finding where to aim your antenna - no matter if it's drone, satellite, high altitude balloon.**
